@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Auto Audio Profile Changer</string>
+    <string name="Aname">Auto Audio Profile Changer</string>
+    <string name="silent">Set Silent Mode</string>
+    <string name="vibrate">Set Vibrate Mod</string>
+    <string name="sound">Set Sound Mode</string>
+    <string name="credits">Credits</string>
+    <string name="set">Set</string>
+
+        <string name="banner_ad_unit_id">ca-app-pub-5437333570108736/7987147020</string>
+    <string name="Setvib">Set Vibrate Mode</string>
+    <string name="dev">Developer:<a href="http://fb.me/sartajroshan"> Sartaj Roshan</a></string>
+    <string name="idea"> Concept:<a href="http://fb.me/omarmuqthar.karuvadan"> Omar Muqthar</a></string>
+    <string name="stop">Stop</string>
+    <string name="close">STOP ALL</string>
+</resources>
