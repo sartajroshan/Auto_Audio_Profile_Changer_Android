@@ -18,7 +18,7 @@
         </activity>
         <activity
             android:name=".Activity1"
-            android:label="@string/Setvib" >        </activity>
+            android:label="@string/Setvib" />
 
         <activity
             android:name=".Credits"
@@ -28,16 +28,13 @@
 
         <activity
             android:name=".Activity2"
-            android:label="@string/sound" >
-        </activity>
+            android:label="@string/sound" />
+      
 
         <activity
             android:name=".Activity3"
-            android:label="@string/silent" >
-        </activity>
-
-
-
+            android:label="@string/silent" />
+       
         <receiver
             android:name=".MyAlarm"
             android:enabled="true"
