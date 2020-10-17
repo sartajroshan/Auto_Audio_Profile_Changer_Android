@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
         btsound.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                //going to Activity2
                 startActivity(new Intent(MainActivity.this, Activity2.class));
             }
         });
